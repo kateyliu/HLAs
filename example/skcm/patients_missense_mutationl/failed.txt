@@ -1,0 +1,2 @@
+patients_missense_mutation/mt/HLA-A02:144/1c052cde-7a70-410b-a273-dbe39dd968f4.MHC.xls
+patients_missense_mutation/mt/HLA-A11:53/122f855b-f3b8-440b-bf9b-e24e1d3db867.MHC.xls
