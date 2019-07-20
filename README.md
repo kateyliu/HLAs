@@ -28,10 +28,10 @@ cp Homo_sapiens.GRCh38.pep.all.fa  Homo_sapiens.GRCh38.pep.rename.fa
 ```
 #Step_4: get peptite fragments  *.fa files，before run step5 
 ```bash
-#need the right python envrioment for each *py script
+[need the right python envrioment for each *py script]
 source ~/conda.bashrc
 source activate py2
-
+#all the used *py files were located in example/skcm/patients_missense_mutationl/py 
 cat >get_fragments.sh <<EOF
 #!/bin/bash
 ##SBATCH -D /home/tangbo/scratch/work/bioin/KIDNEY_KIRC
