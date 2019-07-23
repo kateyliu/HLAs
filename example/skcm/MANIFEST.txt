@@ -1,3 +1,0 @@
-id	filename	md5	size	state
-4b7a5729-b83e-4837-9b61-a6002dce1c0a	4b7a5729-b83e-4837-9b61-a6002dce1c0a/TCGA.SKCM.mutect.4b7a5729-b83e-4837-9b61-a6002dce1c0a.DR-10.0.somatic.maf.gz	e53f990f232210590c9a3624304e2bcf	89383976	validated
-\N	4b7a5729-b83e-4837-9b61-a6002dce1c0a/annotations.txt	dda2052e34376301dc38eb4bd8f51c5d	11757	\N
