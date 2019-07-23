@@ -52,7 +52,7 @@ chmod a+x submit_HLA_jobs.sh
 
 * **Yang Liu** - *University of Missouri, Columbia MO, USA*
 * **Duolin Wang** - *University of Missouri, Columbia MO, USA*
-* **Bowen Tang** - *University of Xiamen, Xiamen Fujian, China*
+* **Bowen Tang** - *University of Missouri, Columbia MO, USA*
 * **Email** - *ylmk2@mail.missouri.edu* 
 * **Email** - *wangdu@mail.missouri.edu* 
 * **Email** - *tangbo@mail.missouri.edu* 
